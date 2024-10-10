@@ -1,0 +1,87 @@
+[
+    {
+        "firstName": "John",
+        "lastName": "Smith",
+        "email": "john.smith@example.com",
+        "dateOfBirth": "1985-04-15",
+        "preferences": {
+            "theme": "dark",
+            "language": "English",
+            "notifications": true
+        },
+        "address": {
+            "street": "707 Sycamore Street",
+            "city": "Phoenix",
+            "state": "AZ",
+            "zipCode": "85001"
+        }
+    },
+    {
+        "firstName": "Emily",
+        "lastName": "Johnson",
+        "email": "emily.johnson@example.com",
+        "dateOfBirth": "1990-07-22",
+        "preferences": {
+            "theme": "light",
+            "language": "Spanish",
+            "notifications": false
+        },
+        "address": {
+            "street": "606 Maplewood Drive",
+            "city": "Chicago",
+            "state": "IL",
+            "zipCode": "60601"
+        }
+    },
+    {
+        "firstName": "Michael",
+        "lastName": "Brown",
+        "email": "michael.brown@example.com",
+        "dateOfBirth": "1982-11-30",
+        "preferences": {
+            "theme": "classic",
+            "language": "French",
+            "notifications": false
+        },
+        "address": {
+            "street": "505 Cherry Lane",
+            "city": "New York",
+            "state": "NY",
+            "zipCode": "10001"
+        }
+    },
+    {
+        "firstName": "Sarah",
+        "lastName": "Davis",
+        "email": "sarah.davis@example.com",
+        "dateOfBirth": "1995-02-10",
+        "preferences": {
+            "theme": "classic",
+            "language": "Chinese",
+            "notifications": true
+        },
+        "address": {
+            "street": "404 Willow Way",
+            "city": "Miami",
+            "state": "FL",
+            "zipCode": "33101"
+        }
+    },
+    {
+        "firstName": "David",
+        "lastName": "Wilson",
+        "email": "david.wilson@example.com",
+        "dateOfBirth": "1988-09-05",
+        "preferences": {
+            "theme": "light",
+            "language": "French",
+            "notifications": true
+        },
+        "address": {
+            "street": "789 Pine Lane",
+            "city": "Champaign",
+            "state": "IL",
+            "zipCode": "61820"
+        }
+    }
+]
